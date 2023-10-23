@@ -1,7 +1,7 @@
 Sarwar In Action
 ===============
 
-This code corresponds to section **2.3.3** of Hugo in Action.
+This code corresponds to section **2.3.3**.
 
 You can see this live at https://chapter-02-04.hugoinaction.com.
 
